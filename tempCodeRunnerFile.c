@@ -1,0 +1,1 @@
+printf("The area of the rectangle is %f \n",2*(n+n));
